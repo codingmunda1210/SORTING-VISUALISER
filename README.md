@@ -8,15 +8,6 @@ This project allows you to visually understand how sorting algorithms work, by s
 
 This project was developed using HTML, CSS, and JavaScript. The project also makes use of jQuery and Bootstrap for styling and functionality. 
 
-Link to the website : https://venkatasai24.github.io/Sorting-Visualizer/
-
-**Sources**:
-
-[BootStrap](https://getbootstrap.com/)
-
-[jQuery](https://jquery.com/)
-
-[FontAwesome](https://fontawesome.com/)
 
 
 
